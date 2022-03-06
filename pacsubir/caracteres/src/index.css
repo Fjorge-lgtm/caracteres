@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+text-align-last: center;
+background-color: rgb(206, 148, 77);
+}
+
+code {
+  font-family: 'Courier New';
+    
+}
+
+
